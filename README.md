@@ -8,7 +8,7 @@ I've worked with:
  - Java
  - Haskell 
 
-I use linux on my laptop and win11 on my main pc!
+I use linux on my laptop and win11 on my main pc! [Full specs](https://github.com/AltraMage/AltraMage/blob/main/computer.md)
 
 To contact me, check the email on [My github](https://github.com/AltraMage)
 
