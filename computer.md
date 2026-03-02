@@ -1,8 +1,6 @@
 Current PC specs:
 - Intel i5-13600k
 - 2 x 16gb 6000mhz ddr5
-- NZXT H1 Case
-- 140mm AIO
 - 2tb nvme SSD x2 (4tb total)
 - RTX 3070
 - G7 Odyssey Monitor
